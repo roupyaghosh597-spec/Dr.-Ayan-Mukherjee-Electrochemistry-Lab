@@ -180,12 +180,6 @@ Our research group focuses on synthesizing, characterizing, and optimizing nano-
   <small>Journal: ECS Journal of Solid State Science and Technology | <a href="#">DOI: 10.1149/2162-8777/ae4067</a></small>
 </div>
 
-<div class="pub-item">
-  <strong>3. Effect of band gap and particle size on photocatalytic degradation of $NiSnO_3$ nanopowder for organic dyes.</strong><br>
-  <em>M. Khatun, P. Mitra, & S. Mukherjee (2023)</em><br>
-  <small>Journal: Hybrid Advances, 4, 100110 | <a href="#">DOI Link</a></small>
-</div>
-
 ---
 
 ## 🏫 Institutional Affiliations
