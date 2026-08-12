@@ -1,124 +1,200 @@
 ---
 layout: default
-title: Electrochemistry & Energy Storage Research | Dr. Ayan Mukherjee
+title: Dr. Ayan Mukherjee | Academic & Research Portfolio
 ---
 
-<!-- HEADER / HERO SECTION -->
-<div align="center">
-  <h1>⚡ Interfacial Electrochemistry & Energy Storage Group</h1>
-  <p><strong>Advanced Thin-Film Synthesis | Supercapacitors | Electrocatalysis | Dielectric Spectroscopy</strong></p>
+<style>
+  :root {
+    --primary: #2563eb;
+    --primary-hover: #1d4ed8;
+    --bg-card: #f8fafc;
+    --border-color: #e2e8f0;
+    --text-dark: #0f172a;
+    --text-muted: #475569;
+  }
 
-  <p>
-    <a href="mailto:contact@example.edu"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-    <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-    <a href="https://www.researchgate.net"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-    <a href="https://orcid.org"><img src="https://img.shields.io/badge/ORCID-0009--0003--0066--080X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  </p>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text-dark);
+    line-height: 1.6;
+  }
+
+  .hero-card {
+    background: linear-gradient(135deg, #eff6ff 0%, #f0f9ff 100%);
+    border: 1px solid #bfdbfe;
+    border-radius: 12px;
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .hero-title {
+    font-size: 2.2rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    color: var(--text-dark);
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+    margin: 1.5rem 0;
+  }
+
+  .info-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 1.25rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+
+  .info-card h3 {
+    margin-top: 0;
+    color: var(--primary);
+    border-bottom: 2px solid #dbeafe;
+    padding-bottom: 0.4rem;
+  }
+
+  .skill-pill {
+    display: inline-block;
+    background: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.25rem 0.65rem;
+    border-radius: 9999px;
+    margin: 0.2rem;
+  }
+
+  .pub-item {
+    background: #ffffff;
+    border-left: 4px solid var(--primary);
+    border-top: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    border-radius: 0 8px 8px 0;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+</style>
+
+<!-- HERO SECTION -->
+<div class="hero-card">
+  <div class="hero-title">Dr. Ayan Mukherjee</div>
+  <div class="hero-subtitle">Assistant Professor & Lead Researcher in Electrochemistry & Energy Storage</div>
+  <p>Specializing in Thin-Film Electrodeposition, Supercapacitors, Electrocatalysis, and Impedance Spectroscopy.</p>
+  
+  <div class="badge-container">
+    <a href="mailto:contact@example.edu"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"></a>
+    <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+    <a href="https://www.researchgate.net"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+    <a href="https://orcid.org"><img src="https://img.shields.io/badge/ORCID-0009--0003--0066--080X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  </div>
 </div>
 
 ---
 
-## 🔬 Research Overview
+## 🔬 Research Overview & Methods
 
-This research framework focuses on the synthesis, microstructural characterization, and electrochemical performance of **transition metal oxides/sulfides**, **nanocrystalline cobaltites**, and **thin-film electrodes** for next-generation energy storage (supercapacitors) and photocatalytic applications.
+Our research group focuses on synthesizing, characterizing, and optimizing nano-structured thin films for high-capacity supercapacitors and electrocatalytic devices.
 
-Key chemical synthesis routes include:
-- **Chemical Bath Deposition (CBD)** & **Successive Ionic Layer Adsorption & Reaction (SILAR)**
-- **Binder-Free Electrodeposition** on stainless steel substrates
-- **Spray Pyrolysis & Sol-Gel Combustion Routes**
+<div>
+  <span class="skill-pill">Chemical Bath Deposition (CBD)</span>
+  <span class="skill-pill">SILAR Technique</span>
+  <span class="skill-pill">Binder-Free Electrodeposition</span>
+  <span class="skill-pill">Cyclic Voltammetry (CV)</span>
+  <span class="skill-pill">Galvanostatic Charge-Discharge (GCD)</span>
+  <span class="skill-pill">Electrochemical Impedance Spectroscopy (EIS)</span>
+</div>
 
----
-
-## 👨‍🔬 Core Researchers & Collaborators
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Dr. Ayan Mukherjee</h3>
-      <p><em>Assistant Professor / Researcher</em><br>
-      Patliputra University, Patna<br>
-      <em>Ph.D. alumnus, The University of Burdwan</em></p>
-      <ul>
-        <li><strong>Focus:</strong> Metal oxide/sulfide thin films ($Co_3O_4$, $NiCo_2O_4$, $CdS$, $ZnO$), supercapacitor electrode fabrication, impedance spectroscopy.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Prof. Partha Mitra</h3>
-      <p><em>Professor (Associate)</em><br>
-      Department of Physics<br>
-      The University of Burdwan</p>
-      <ul>
-        <li><strong>Focus:</strong> Materials physics, spinel cobaltites ($MnCo_2O_4$, $ZnCo_2O_4$), dielectric properties, photocatalysis, and carrier hopping mechanisms.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Roupya Gopal Ghosh</h3>
-      <p><em>Research Scholar (Physics)</em><br>
-      Department of Physics<br>
-      The University of Burdwan</p>
-      <ul>
-        <li><strong>Focus:</strong> Binder-free electrodeposited nanostructures, cyclic voltammetry, galvanostatic charge-discharge (GCD), electrocatalysis.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<Image src="image_agent_tag_17054204880968348144" alt="Diagram showing galvanic cell setup with salt bridge and electrodes representing electrochemical research principles." caption="Electrochemical Cell Dynamics & Ion Transfer Setup" />
 
 ---
 
-## 🎯 Key Research Themes┌───────────────────────────────────────────────────────────────────────────┐
-│                          ELECTROCHEMICAL RESEARCH                         │
-├──────────────────────────────┬────────────────────────────────────────────┤
-│ 🔋 Energy Storage Devices    │  • High-performance supercapacitor electrodes│
-│                              │  • Binder-free electrodeposited Co3O4      │
-│                              │  • Annealing temperature effects on NiCo2O4│
-├──────────────────────────────┼────────────────────────────────────────────┤
-│ 🧪 Materials & Synthesis     │  • Spray pyrolysis of doped CdS / ZnO      │
-│                              │  • SILAR & CBD nanostructured thin films   │
-│                              │  • Green synthesis of MnCo2O4 cobaltites   │
-├──────────────────────────────┼────────────────────────────────────────────┤
-│ 📊 Electrochemical Dynamics  │  • Ion transfer kinetics & impedance (EIS) │
-│                              │  • Dielectric relaxation & AC conductivity │
-└──────────────────────────────┴────────────────────────────────────────────┘
+## 👨‍🔬 Research Group & Collaborators
 
+<div class="grid-container">
+  <div class="info-card">
+    <h3>Dr. Ayan Mukherjee</h3>
+    <p><strong>Patliputra University, Patna</strong><br>
+    <em>Ph.D. alumnus, The University of Burdwan</em></p>
+    <ul>
+      <li>Metal oxide/sulfide thin films ($Co_3O_4$, $NiCo_2O_4$, $CdS$, $ZnO$)</li>
+      <li>Supercapacitor electrode optimization</li>
+      <li>Electrolyte ion kinetics</li>
+    </ul>
+  </div>
+
+  <div class="info-card">
+    <h3>Prof. Partha Mitra</h3>
+    <p><strong>The University of Burdwan</strong><br>
+    <em>Department of Physics</em></p>
+    <ul>
+      <li>Materials Physics & Spinel Cobaltites ($MnCo_2O_4$, $ZnCo_2O_4$)</li>
+      <li>Dielectric Spectroscopy & AC Conductivity</li>
+      <li>Photocatalytic Degradation</li>
+    </ul>
+  </div>
+
+  <div class="info-card">
+    <h3>Roupya Gopal Ghosh</h3>
+    <p><strong>The University of Burdwan</strong><br>
+    <em>Research Scholar (Physics)</em></p>
+    <ul>
+      <li>Binder-free electrodeposited nanostructures</li>
+      <li>FESEM & Structural XRD characterization</li>
+      <li>CV, GCD & EIS measurements</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
-## 📑 Recent Co-Authored & Related Publications
+## 📑 Recent Publications
 
-### 📄 Joint Journal Articles
+<div class="pub-item">
+  <strong>1. Electrochemical Study of Binder-Free Electrodeposited $NiCo_2O_4$ Thin Film: Influence of Annealing Temperature.</strong><br>
+  <em>R. G. Ghosh, S. Roy, P. Mitra, & A. Mukherjee (2025)</em><br>
+  <small>Journal: Electrocatalysis (Springer) | <a href="#">DOI: 10.1007/s12678-025-00994-y</a></small>
+</div>
 
-1. **Ghosh, R. G.**, Roy, S., **Mitra, P.**, & **Mukherjee, A.** (2025).  
-   *Electrochemical Study of Binder-Free Electrodeposited $NiCo_2O_4$ Thin Film: Influence of Annealing Temperature.* **Electrocatalysis** (Springer).  
-   [DOI: 10.1007/s12678-025-00994-y](#)
+<div class="pub-item">
+  <strong>2. Electrodeposited $Co_3O_4$ Thin Film Over Stainless Steel Substrate for High-Performance Supercapacitor Electrodes.</strong><br>
+  <em>A. Kumar, S. Roy, R. G. Ghosh, & A. Mukherjee (2026)</em><br>
+  <small>Journal: ECS Journal of Solid State Science and Technology | <a href="#">DOI: 10.1149/2162-8777/ae4067</a></small>
+</div>
 
-2. Kumar, A., Roy, S., **Ghosh, R. G.**, & **Mukherjee, A.** (2026).  
-   *Electrodeposited $Co_3O_4$ Thin Film Over Stainless Steel Substrate for High-Performance Supercapacitor Electrodes.* **ECS Journal of Solid State Science and Technology**.  
-   [DOI: 10.1149/2162-8777/ae4067](#)
-
-3. Khatun, M., **Mitra, P.**, & **Mukherjee, S.** (2023).  
-   *Effect of band gap and particle size on photocatalytic degradation of $NiSnO_3$ nanopowder for organic dyes.* **Hybrid Advances**, 4, 100110.  
-   [DOI Link](#)
-
-4. **Mukherjee, A.**, et al.  
-   *Influence of Annealing Temperature on Electrolyte Ion Transfer Kinetics through Porous $NiCo_2O_4$ Thin Films.* **Materials Research / Physics Communications**.
-
----
-
-## 🧪 Experimental Methods & Instrumentation
-
-- **Electrochemical Characterization:** Cyclic Voltammetry (CV), Galvanostatic Charge-Discharge (GCD), Electrochemical Impedance Spectroscopy (EIS).
-- **Structural & Surface Analysis:** X-ray Diffraction (XRD), Field Emission Scanning Electron Microscopy (FESEM), Energy Dispersive X-ray (EDX).
-- **Thin Film Deposition:** Electrodeposition setup, SILAR coating unit, Spray Pyrolysis chamber.
+<div class="pub-item">
+  <strong>3. Effect of band gap and particle size on photocatalytic degradation of $NiSnO_3$ nanopowder for organic dyes.</strong><br>
+  <em>M. Khatun, P. Mitra, & S. Mukherjee (2023)</em><br>
+  <small>Journal: Hybrid Advances, 4, 100110 | <a href="#">DOI Link</a></small>
+</div>
 
 ---
 
 ## 🏫 Institutional Affiliations
 
-- **Department of Physics, The University of Burdwan**, Rajbati, Bardhaman, West Bengal 713104, India.
-- **PG Department of Physics**, College of Commerce, Arts and Science, Patliputra University, Patna, Bihar, India.
+* **Department of Physics, The University of Burdwan**, Rajbati, Bardhaman, West Bengal 713104, India.
+* **PG Department of Physics**, College of Commerce, Arts and Science, Patliputra University, Patna, Bihar, India.
 
 ---
 
-<div align="center">
-  <p>© 2026 Academic Research Group | Maintained via <a href="https://pages.github.com/">GitHub Pages</a></p>
+<div align="center" style="margin-top: 3rem; color: var(--text-muted); font-size: 0.9rem;">
+  © 2026 Academic Research Group | Hosted via <a href="https://pages.github.com/">GitHub Pages</a>
 </div>
