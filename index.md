@@ -192,3 +192,11 @@ Our research group focuses on synthesizing, characterizing, and optimizing nano-
 <div align="center" style="margin-top: 3rem; color: var(--text-muted); font-size: 0.9rem;">
   © 2026 Academic Research Group | Hosted via <a href="https://pages.github.com/">GitHub Pages</a>
 </div>
+---
+layout: default
+title: Publications | Dr. Ayan Mukherjee
+---
+
+# Publications & Research Papers
+
+1. **Electrochemical Study of Binder-Free Electrodeposited NiCo2O4 Thin Film...**
