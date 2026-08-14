@@ -2,19 +2,4 @@ title: "Electrochemistry Research Group"
 description: "Research in electrochemistry, thin films, nanomaterials and energy storage"
 theme: jekyll-theme-cayman
 
-navigation:
-  - title: Home
-    url: /
-  - title: Research
-    url: /research
-  - title: Electrochemistry
-    url: /electrochemistry
-  - title: Publications
-    url: /publications
-  - title: Research Team
-    url: /people
-  - title: Projects
-    url: /projects
-  - title: Contact
-    url: /contact
 [Home](index.html) | [Publications](publications.html)
