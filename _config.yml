@@ -1,1 +1,8 @@
-[Home](index.html) | [Publications](publications.html)
+title: Dr. Ayan Mukherjee Research Group
+theme: jekyll-theme-cayman
+
+header_pages:
+  - index.md
+  - publications.md
+  - collaborators.md
+  - contact.md
